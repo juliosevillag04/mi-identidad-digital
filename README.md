@@ -1,5 +1,6 @@
 # mi-identidad-digital
 Hola, soy Julio Javier Sevilla Gallegos, estudiante de Ingeniería de Sistemas e Ingeniería Industrial.
+
 Actualmente estoy aprendiendo programación, GitHub y herramientas digitales para construir mi perfil profesional.
 
 ## Mis metas
